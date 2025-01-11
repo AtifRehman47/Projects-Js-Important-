@@ -1,0 +1,29 @@
+/* Center container styling */
+.center {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+       background-color: #f0f0f0;
+     }
+     
+     /* Banner styling */
+     #banner {
+       font-size: 24px;
+       font-weight: bold;
+       color: #333;
+       margin-bottom: 20px;
+     }
+     
+     /* Clock styling */
+     #clock {
+       font-size: 48px;
+       font-family: 'Courier New', Courier, monospace;
+       background-color: #333;
+       color: #fff;
+       padding: 20px 40px;
+       border-radius: 10px;
+       box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+     }
+     

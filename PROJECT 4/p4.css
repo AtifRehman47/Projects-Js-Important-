@@ -1,0 +1,84 @@
+/* General wrapper styling */
+#wrapper {
+       max-width: 500px;
+       margin: 50px auto;
+       padding: 20px;
+       background-color: #f9f9f9;
+       border-radius: 10px;
+       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+       text-align: center;
+       font-family: Arial, sans-serif;
+     }
+     
+     /* Heading styling */
+     h1 {
+       font-size: 24px;
+       color: #333;
+       margin-bottom: 10px;
+     }
+     
+     /* Form styling */
+     .form {
+       margin-top: 20px;
+     }
+     
+     label {
+       font-size: 16px;
+       color: #333;
+     }
+     
+     input[type="text"] {
+       padding: 10px;
+       width: 80%;
+       border-radius: 5px;
+       border: 1px solid #ccc;
+       margin: 10px 0;
+     }
+     
+     input[type="submit"] {
+       background-color: #28a745;
+       color: white;
+       border: none;
+       padding: 10px 15px;
+       border-radius: 5px;
+       cursor: pointer;
+       font-size: 16px;
+     }
+     
+     input[type="submit"]:hover {
+       background-color: #218838;
+     }
+     
+     /* Results display */
+     .resultparas {
+       margin-top: 20px;
+     }
+     
+     .guesses,
+     .lastResult,
+     .lowOrHi {
+       font-size: 18px;
+       margin-top: 10px;
+     }
+     
+     .guesses {
+       font-weight: bold;
+       color: #007bff;
+     }
+     
+     .lastResult {
+       font-weight: bold;
+       color: #dc3545;
+     }
+     
+     .lowOrHi {
+       font-weight: bold;
+       color: #28a745;
+     }
+     
+     /* Additional styling */
+     p {
+       font-size: 16px;
+       color: #666;
+     }
+     

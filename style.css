@@ -1,0 +1,36 @@
+#Red{
+       text-align: center;
+       background-color: red ;
+       border-radius: 20px;
+       padding: 50px;
+       margin: 80px;
+       width: 20px;
+}
+
+#Blue{
+       text-align: center;
+       background-color: rgb(22, 19, 182) ;
+       border-radius: 20px;
+       padding: 50px;
+       margin: 80px;
+       width: 20px;
+       
+}
+
+#Green{
+       text-align: center;
+       background-color: green ;
+       border-radius: 20px;
+       padding: 50px;
+       margin: 80px;
+       width: 20px;
+}
+
+#Orange{
+       text-align: center;
+       background-color: orangered ;
+       border-radius: 20px;
+       padding: 50px;
+       margin: 80px;
+       width: 20px;
+}
